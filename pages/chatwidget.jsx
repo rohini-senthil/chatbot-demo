@@ -52,7 +52,7 @@ function ChatWidget() {
                         profileAvatar={profileAvatar}
                         profileClientAvatar={profileClientAvatar}
                         title="Course Advisor Chatbot"
-                        subtitle=""
+                        subtitle="Your Career Assistant"
                     />
                 
             }
