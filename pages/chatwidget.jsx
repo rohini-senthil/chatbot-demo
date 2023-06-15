@@ -32,7 +32,7 @@ function ChatWidget() {
             try {
                 const response = await axios.request(config);
                 console.log(JSON.stringify(response.data));
-                addResponseMessage(JSON.stringify(response.data.response.answer));
+                addResponseMessage(JSON.stringify(response.data.response.answer.trim()));
             }
             catch (error) {
                 console.log(error);
