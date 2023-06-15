@@ -1,0 +1,824 @@
+University of Sydney B.Com Course Requirements
+
+Degree
+ Bachelor of Commerce
+
+Course Requirements
+    To qualify for the award of the Bachelor of Commerce, a candidate must complete 144 credit points, comprising:
+
+        24 credit points of degree core units of study;
+        a major (48 credit points) or program selected from the Table A subject areas;
+        a minor (36 credit points) or second major (48 credit points) selected from Table A or Table S;
+        12 credit points of units of study in the Open Learning Environment (OLE) selected from Table O; and
+        any additional elective units of study from Tables A, S, or O required to make up the 144 credit point total"
+
+Major or Minor
+    Accounting, Accounting (Professional), Banking, Business Analytics, Business Information Systems, 
+    Business Law, Finance, Industrial Relations and Human Resource Management, Innovation and Entrepreneurship, 
+    International Business, Management and Leadership, Marketing, Accounting, American Studies, 
+    Anatomy and Histology, Ancient Greek, Ancient History, Animal Health, Disease and Welfare, 
+    Animal Production, Anthropology, Applied Medical Science, Arabic Language and Cultures, Archaeology, 
+    Art History, Asian Studies, Banking, Biblical Studies and Classical Hebrew, Biochemistry and Molecular Biology, 
+    Biological Design, Biology, Business Analytics, Business Information Systems, Business Law, Cell and Developmental Biology,
+    Chemistry, Chinese Studies, Computer Science, Computer Systems, Criminology, and Cultural Studies, Data Science, Design, 
+    Digital Cultures, Digital Music, Disability and Participation, Diversity Studies (minor), Ecology and Evolutionary Biology,
+    Econometrics, Economic Policy, Economics, Education Studies, English, Environmental, Agricultural and Resource Economics, 
+    Environmental Studies, European Studies, Film Studies, Finance, Financial Economics, Financial Mathematics and Statistics, 
+    Food Science, French and Francophone Studies, Gender Studies, Genetics and Genomics, Geography, Geology and Geophysics, 
+    Germanic Studies, Health, Hearing and Speech, Hebrew (Modern), History, and History and Philosophy of Science, 
+    Immunology (minor), Immunology and Pathology, Indigenous Studies, Indonesian Studies, 
+    Industrial Relations and Human Resource
+
+University of Sydney B.Com Major and Minor requirements
+
+Subject area: Accounting
+Requirements
+    Major
+        48 credits:
+        (i) 12 credit points of 1000-level core units
+        (ii) 12 credit points of 2000-level core units
+        (iii) 12 credit points of 3000-level core units
+        (iv) 12 credit points of 3000-level selective units
+    Minor
+        36 credits:
+        (i) 12 credit points of 1000-level core units
+        (ii) 12 credit points of 2000-level core units
+        (iii) 12 credit points of 3000-level selective units"
+
+    
+
+Subject area: Business Analytics
+Requirements
+    Major
+        48 credits:
+            (i) 12 credit points of 1000-level core units
+            (ii) 18 credit points of 2000-level core units
+            (iii) 6 credit points of 3000-level core units
+            (iv) 12 credit points of 3000-level selective units"
+    Minor
+        36 credits:
+            (i) 12 credit points of 1000-level core units
+            (ii) 18 credit points of 2000-level core units
+            (iii) 6 credit points of 3000-level selective units"
+
+Subject area: Finance
+Requirements
+    Major
+        48 credits:
+        (i) 12 credit points of 1000-level core units
+        (ii) 12 credit points of 2000-level core units
+        (iii) 12 credit points of 3000-level core units
+        (iv) 12 credit points of 3000-level selective units"
+    Minor
+        Does not have a program for minoring in Finance
+
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1000
+- Unit name: Future of Business
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: BUSS1001
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1030
+- Unit name: Accounting for Decision Making
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS2000
+- Unit name: Leading and Influencing in Business
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: Completion of at least 48 credit points (including BUSS1000 or BUSS1001)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: BUSS1030
+- Unit name: Accounting for Decision Making
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT1006
+- Unit name: Accounting and Financial Management
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: BUSS1030 or ACCT1005
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT2011
+- Unit name: Reporting on Business Performance
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: (ACCT1001 or ACCT1005 or BUSS1030) and (ACCT1002 or ACCT1006)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT2019
+- Unit name: Accounting Analysis for Management Decisions
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: (ACCT1001 or ACCT1005 or BUSS1030) and (ACCT1002 or ACCT1006)
+- Corequisites: nan
+- Prohibitions: ACCT2012
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT3011
+- Unit name: Reporting on Business Groups
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT3600
+- Unit name: Accounting and Auditing in Practice
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: Completion of at least 120 credit points including (ACCT2012 or ACCT2019) and ACCT3011
+- Corequisites: nan
+- Prohibitions: ACCT3014
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3013
+- Unit name: Financial Statement Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3015
+- Unit name: Accounting Data Analytics
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3016
+- Unit name: Sustainability Management and Reporting
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3020
+- Unit name: Consulting for Management Control Systems
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3031
+- Unit name: International Corporate Governance
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1030
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: CLAW3201
+- Unit name: Australian Taxation System
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: CLAW1003 or CLAW2201 or CLAW2214
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: INFS3110
+- Unit name: Information Systems for Accountants
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: INFS2001
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3400
+- Unit name: Industry and Community Project
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: 72 credit points
+- Corequisites: nan
+- Prohibitions: BUSS3110 or BANK3400 or CLAW3400 or FINC3400 or IBUS3400 or INFS3400 or MKTG3400 or QBUS3400 or WORK3400 or WORK3401
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3011
+- Unit name: Reporting on Business Groups
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3013
+- Unit name: Financial Statement Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3015
+- Unit name: Accounting Data Analytics
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3016
+- Unit name: Sustainability Management and Reporting
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3020
+- Unit name: Consulting for Management Control Systems
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ACCT2011 and (ACCT2012 or ACCT2019)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3031
+- Unit name: International Corporate Governance
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1030
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: QBUS1040
+- Unit name: Foundations of Business Analytics
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH 1000-level units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: QBUS2310
+- Unit name: Management Science
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: Students commencing from 2018: QBUS1040. Pre-2018 commencing students: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: ECMT2620
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: QBUS2810
+- Unit name: Statistical Modelling for Business
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: Students commencing from 2018: QBUS1040. Pre-2018 continuing students: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: ECMT2110
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: QBUS2820
+- Unit name: Predictive Analytics
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: QBUS2810 or ECMT2110 or DATA2002
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: QBUS3600
+- Unit name: Business Analytics in Practice
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: Student commencing from 2018: completion of at least 120 credit points including QBUS2310 and QBUS2810 and QBUS2820. 2018 continuing students: completion of at least 120 credit points including QBUS2310 and QBUS2810
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3310
+- Unit name: Advanced Management Science
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2310
+- Corequisites: nan
+- Prohibitions: ECMT3610 or ECMT3710
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3320
+- Unit name: Supply Chain Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ECMT2640 or QBUS2330 or QBUS2350 or QBUS3340 or QBUS3350
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3330
+- Unit name: Methods of Decision Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2320 or ECMT2630 or ENGG1850 or CIVL3805
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3340
+- Unit name: Operations Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2330
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3350
+- Unit name: Project Planning and Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: QBUS2350
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3820
+- Unit name: Machine Learning and Data Mining in Business
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2820
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3830
+- Unit name: Advanced Analytics
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2810 or DATA2002 or ECMT2110
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3840
+- Unit name: Choice Modelling
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2810 or DATA2002 or ECMT2110
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3850
+- Unit name: Time Series and Forecasting
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2820
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3400
+- Unit name: Industry and Community Project
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: 72 credit points
+- Corequisites: nan
+- Prohibitions:  BUSS3110 or ACCT3400 or BANK3400 or CLAW3400 or FINC3400 or IBUS3400 or INFS3400 or MKTG3400 or WORK3400 or WORK3401
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3310
+- Unit name: Advanced Management Science
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2310
+- Corequisites: nan
+- Prohibitions: ECMT3610 or ECMT3710
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3320
+- Unit name: Supply Chain Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: ECMT2640 or QBUS2330 or QBUS2350 or QBUS3340 or QBUS3350
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3330
+- Unit name: Methods of Decision Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2320 or ECMT2630 or ENGG1850 or CIVL3805
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3340
+- Unit name: Operations Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2330
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3350
+- Unit name: Project Planning and Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2350
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3820
+- Unit name: Machine Learning and Data Mining in Business
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2820
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3830
+- Unit name: Advanced Analytics
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2810 or DATA2002 or ECMT2110
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3840
+- Unit name: Choice Modelling
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2810 or DATA2002 or ECMT2110
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3850
+- Unit name: Time Series and Forecasting
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: QBUS2820
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: BUSS1040
+- Unit name: Economics for Business Decision Making
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECON1001 OR ECON1040
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC2011
+- Unit name: Corporate Finance I
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: {(BUSS1020 or ECMT1010 or ENVX1001 or ENVX1002 or DATA1001) or [(MATH1005 or MATH1015) and MATH1115] or 6 credit points in MATH units including MATH1905} and (BUSS1040 or ECON1001 or ECON1002)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC2012
+- Unit name: Corporate Finance II
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: FINC2011
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3017
+- Unit name: Investments and Portfolio Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3600
+- Unit name: Finance in Practice
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: completion of at least 120 credit points including FINC2011 and FINC2012
+- Corequisites: FINC3017
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: BANK3011
+- Unit name: Bank Financial Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BANK2011 or ECOS2004 or FINC2011
+- Corequisites: nan
+- Prohibitions: FINC3018
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3011
+- Unit name: International Financial Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3012
+- Unit name: Derivative Securities
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3013
+- Unit name: Mergers and Acquisitions
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3014
+- Unit name: Trading and Dealing in Security Markets
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3015
+- Unit name: Financial Valuation: Case Study Approach
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: FINC3005
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3019
+- Unit name: Fixed Income Securities
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3020
+- Unit name: Financial Risk Management
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3023
+- Unit name: Behavioural Finance
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: FINC2012
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Finance
+- Core/Selective: Selective
+- Unit code: FINC3400
+- Unit name: Industry and Community Project
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: 72 credit points
+- Corequisites: nan
+- Prohibitions: BUSS3110 or ACCT3400 or BANK3400 or CLAW3400 or IBUS3400 or INFS3400 or MKTG3400 or QBUS3400 or WORK3400 or WORK3401
+
+Sample student course history
+
+ Degree enrolled : Bachelor of Commerce
+ Major: Accounting
+ Minor: Business Analytics
+ Course status: Completed year 1, about to enter year 2
+ Units completed in year 1: BUSS1000: Future of Business
+BUSS1020: Quantitative Business Analysis 
+BUSS1030: Accounting for Decision Making 
+BUSS2000: Leading and Influencing in Business 
+ACCT1006: Accounting and Financial Management 
+QBUS1040: Foundations of Business Analytics 
+ACCT3031: International Corporate Governance 
+QBUS3330: Methods of Decision Analysis  
+
+
+
+Details of the units completed by sample student in year 1
+
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1000
+- Unit name: Future of Business
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: BUSS1001
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1030
+- Unit name: Accounting for Decision Making
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS2000
+- Unit name: Leading and Influencing in Business
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: Completion of at least 48 credit points (including BUSS1000 or BUSS1001)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT1006
+- Unit name: Accounting and Financial Management
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: BUSS1030 or ACCT1005
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3031
+- Unit name: International Corporate Governance
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1030
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3330
+- Unit name: Methods of Decision Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2320 or ECMT2630 or ENGG1850 or CIVL3805

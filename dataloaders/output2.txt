@@ -1,0 +1,80 @@
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1000
+- Unit name: Future of Business
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: BUSS1001
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS1030
+- Unit name: Accounting for Decision Making
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004 or ACCT1005
+--------------------------------------------------
+- Subject area: Commerce degree core
+- Core/Selective: Core
+- Unit code: BUSS2000
+- Unit name: Leading and Influencing in Business
+- Unit level: 2000
+- Credits: 6
+- Prerequisites: Completion of at least 48 credit points (including BUSS1000 or BUSS1001)
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Core
+- Unit code: ACCT1006
+- Unit name: Accounting and Financial Management
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: BUSS1030 or ACCT1005
+- Corequisites: nan
+- Prohibitions: ACCT1001 or ACCT1002 or ACCT1003 or ACCT1004
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Core
+- Unit code: BUSS1020
+- Unit name: Quantitative Business Analysis
+- Unit level: 1000
+- Credits: 6
+- Prerequisites: nan
+- Corequisites: nan
+- Prohibitions: ECMT1010 or MATH1005 or MATH1905 or MATH1015 or STAT1021 or ENVX1001 or ENVX1002 or DATA1001 or MATH1115
+--------------------------------------------------
+- Subject area: Accounting
+- Core/Selective: Selective
+- Unit code: ACCT3031
+- Unit name: International Corporate Governance
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1030
+- Corequisites: nan
+- Prohibitions: nan
+--------------------------------------------------
+- Subject area: Business Analytics
+- Core/Selective: Selective
+- Unit code: QBUS3330
+- Unit name: Methods of Decision Analysis
+- Unit level: 3000
+- Credits: 6
+- Prerequisites: BUSS1020 or DATA1001 or ECMT1010 or ENVX1001 or ENVX1002 or STAT1021 or ((MATH1005 or MATH1015) and MATH1115) or 6 credit points of MATH units which must include MATH1905
+- Corequisites: nan
+- Prohibitions: QBUS2320 or ECMT2630 or ENGG1850 or CIVL3805
